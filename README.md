@@ -35,9 +35,11 @@ config.py
 
 8. Push the above changes to GitHub.
 
-## Data-Science
+## Project Proposal
 
-In this folder, you'll create a Python script to visualise some of the facts about data science job opportunities, best companies, popular job locations, employee satisfaction and required skillset.
+## Extracting, Transforming and Loading process (ETL)
+
+### Extract
 
 Follow the steps below to unveil the facts:
 
