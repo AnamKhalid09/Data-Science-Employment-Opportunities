@@ -20,7 +20,7 @@ Now the question is, Do we have data that supports this narration? If yes, how i
 
 3. Inside your local Git repository, create a directory. Use a folder name such as: **Resources**.
 
-4. Inside the folder you just created, put your csv files named as datascience_jobs_aus.csv and datascience_listing.csv. These will be the two datasets that you'll be using for your ETL (Extract, Transform and Load) process. We got these datasets from [Kaggle](https://www.kaggle.com/)
+4. Inside the folder you just created, put your csv files named as datascience_jobs_aus.csv and datascience_listing.csv. These will be the two datasets that you'll be using for your ETL (Extract, Transform and Load) process. We got these datasets from [Kaggle](https://www.kaggle.com/).
 
 5. Create another folder called **Resources** and put your csv file in it.
 
