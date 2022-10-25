@@ -24,11 +24,12 @@ Now the question is, Do we have data that supports this narration? If yes, how i
 
 5. For the ETL process, create two files namely queries.sql and data_etl.ipynb. These are the files where you'll write your main code, we'll discuss it further later on.
 
-6. Add a .gitignore file as a good practice in case you want to keep any confidential files in it like your API keys, your password or username. .gitignore file will keep all the files hidden from being published publicly even if your repository is public. For API keys, open your .gitignore file and in the first line type the following:
+6. Add a .gitignore file as a good practice in case you want to keep any confidential files in it like your API keys, your password or username. .gitignore file will keep all the files hidden from being published publicly even if your repository is public. For username and password, open your .gitignore file and in the first line type the following:
 
 ```python
 # Adding config.py file.
-api_keys.py
+username = postgres
+password = <password>
 ```
 
 7 .Add a README.md file to share your approach towards project.
