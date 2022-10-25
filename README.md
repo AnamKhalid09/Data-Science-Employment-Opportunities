@@ -20,7 +20,7 @@ Now the question is, Do we have data that supports this narration? If yes, how i
 
 3. Inside your local Git repository, create a directory. Use a folder name such as: **Resources**.
 
-4. Inside the folder you just created, put your csv files namely add new file called `data_science.ipynb`. These will be the main script to run for each analysis.
+4. Inside the folder you just created, put your csv files named as datascience_jobs_aus.csv and datascience_listing.csv. These will be the two datasets that you'll be using for your ETL (Extract, Transform and Load) process.
 
 5. Create another folder called **Resources** and put your csv file in it.
 
