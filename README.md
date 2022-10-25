@@ -13,14 +13,14 @@ Now the question is, Do we have data that supports this narration? If yes, how i
 
 ### Before You Begin
 
-1. Create a new repository for this project and name it as **project-one**. 
+1. Create a new repository for this project and name it as **project-two**. 
    **Do not add this to an existing repository**.
 
-2. Clone the new repository to your computer.
+2. Clone the new repository to your computer and as it's a group project, copy the url and send it to the contributors so that they can also clone on their computers. Don't forget to add them as contributors first by going into the project settings. We created branches so that the contributors can contribute in their own branch and later we can just push the final product to the main.
 
-3. Inside your local Git repository, create a directory. Use a folder name such as: **Data-Science**.
+3. Inside your local Git repository, create a directory. Use a folder name such as: **Resources**.
 
-4. Inside the folder you just created, add new file called `data_science.ipynb`. These will be the main script to run for each analysis.
+4. Inside the folder you just created, put your csv files namely add new file called `data_science.ipynb`. These will be the main script to run for each analysis.
 
 5. Create another folder called **Resources** and put your csv file in it.
 
