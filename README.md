@@ -43,16 +43,35 @@ The detailed project proposal is attached in repo in the pdf form, please refer 
 
 ### Extract
 
+Extracting includes reading the data from multiple sources. we are using two datasets (csv files) which you can find in 'Resources' folder as described above. If you're looking for datasets of your choice, keep in mind that they don't have to be csv files necessarily. They could be any of the following:
+- CSV files
+- JSON files
+- HTML tables
+- SQL databases
+- Spreadsheets
+Apart from this, following are a few suggestions where you can find data from:
+- https://www.data.world/
+- https://www.kaggle.com/
+- https://www.data.gov.au/
+- https://github.com/awesomedata/awesome-public-datasets
+- https://github.com/n0shake/Public-APIs
+- https://github.com/Kikobeats/awesome-api
+
+
 ### Transform
 
+Transformation includes cleaning and structuring the data in desired form.
+
 ### Load
+
+Loading includes writing the data into a relational or non-relational database for storage
 
 ## Technical Report
 
 The detailed technical report is attached in repo in the pdf form, please refer to the pdf file with name technical report for understanding of the technical aspects of the project in detail.
 
 
-**Note:** Although, We have used one dataset from a previous project which you can find at https://github.com/AnamKhalid09/project-one.git. Since the topic is same, you might notice similar aspects like similar content in Readme file. But, the main focus of this project is ETL. Furthermore, the data used is fresh at the time of publication, therefore trends might change in future. For that, it is recommended to use the fresh data for this project. Recommendations and pull requests are welcome!
+**Note:** Although, one of the datasets is from a previous project which you can find at https://github.com/AnamKhalid09/project-one.git. Since the topic is same, you might notice similar aspects like similar content in Readme file. But, the main focus of this project is ETL. Furthermore, the data used is fresh at the time of publication, therefore trends might change in future. For that, it is recommended to use the fresh data for this project. Recommendations and pull requests are welcome!
  
 ## References:
 https://medium.datadriveninvestor.com/is-data-science-ranked-as-the-sexiest-job-for-2023-and-beyond-cf66d8ba5585
