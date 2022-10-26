@@ -52,7 +52,7 @@ The detailed project proposal is attached in repo in the pdf form, please refer 
 The detailed technical report is attached in repo in the pdf form, please refer to the pdf file with name technical report for understanding of the technical aspects of the project in detail.
 
 
-- **Note:** We have used one dataset from a previous project which you can find The data used is fresh at the time of publication, therefore trends might change in future. For that, it is recommended to use the fresh data for this project. Recommendations and pull requests are welcome!
+**Note:** We have used one dataset from a previous project which you can find at https://github.com/AnamKhalid09/project-one.git. The data used is fresh at the time of publication, therefore trends might change in future. For that, it is recommended to use the fresh data for this project. Recommendations and pull requests are welcome!
  
 ## References:
 https://medium.datadriveninvestor.com/is-data-science-ranked-as-the-sexiest-job-for-2023-and-beyond-cf66d8ba5585
