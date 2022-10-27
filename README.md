@@ -61,7 +61,7 @@ Before extraction using python and pandas, create a new database called 'datasci
 
 #### Extraction in steps:
 
-- Import dependencies (pandas, create_engine and inspect from sqlalchemy, config)
+- Import dependencies (pandas, create_engine and inspect from sqlalchemy, config) in Jupiter notebook.
 - Store CSV files into a DataFrame. For this set the path to the CSV files and read and display the dataframes using pandas.
 
 
