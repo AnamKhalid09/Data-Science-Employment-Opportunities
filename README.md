@@ -68,8 +68,6 @@ Before extraction using python and pandas, create a new database called 'datasci
 
 Transformation includes cleaning and structuring the data in desired form. Structuring includes summarization, selection, joining, filtering and aggregating the data depending on the business needs. Transformation can be done using SQL or specialized ETL tools but here you'll be using Python and Pandas.
 
-#### Transformation in steps:
-
 - For transformation, clean the dataframe by keeping the copy of the columns that you're interested in. Using a copy and not the original data will save us from troubles.
 
 
