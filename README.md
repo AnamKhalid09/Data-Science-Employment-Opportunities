@@ -36,13 +36,13 @@ config.py
 
 ## Project Proposal
 
-The detailed project proposal is attached in repo in the pdf form, please refer to the pdf file with name project proposal for understanding of the project in detail.
+The detailed project proposal is attached in repo in the pdf form, please refer to the pdf file with name 'Project Proposal' for understanding of the project in detail.
 
 ## Extracting, Transforming and Loading process (ETL)
 
 ### Extract
 
-Extracting includes reading the data from multiple sources. we are using two datasets (csv files) which you can find in 'Resources' folder as described above. If you're looking for datasets of your choice, keep in mind that they don't have to be csv files necessarily. They could be any of the following:
+Extracting includes reading the data from multiple sources. we are using two datasets (CSV files) which you can find in 'Resources' folder as described above. If you're looking for datasets of your choice, keep in mind that they don't have to be CSV files necessarily. They could be any of the following:
 - CSV files
 - JSON files
 - HTML tables
