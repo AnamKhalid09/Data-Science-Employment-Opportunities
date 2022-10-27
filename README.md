@@ -86,7 +86,7 @@ Loading includes writing the data into a relational (sql) or non-relational (mon
 
 ## Technical Report
 
-The detailed technical report is attached in repo in the pdf form, please refer to the pdf file with name technical report for understanding of the technical aspects of the project in detail.
+The detailed technical report is attached in repo in the pdf form, please refer to the pdf file with name 'Project 2-Report' for understanding of the technical aspects of the project in detail.
 
 
 **Note:** Although, one of the datasets is from a previous project which you can find at https://github.com/AnamKhalid09/project-one.git. Since the topic is same, you might notice similar aspects like similar content in Readme file. But, the main focus of this project is ETL. Furthermore, the data used is fresh at the time of publication, therefore trends might change in future. For that, it is recommended to use the fresh data for this project. Recommendations and pull requests are welcome!
