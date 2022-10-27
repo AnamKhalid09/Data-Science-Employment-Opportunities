@@ -1,5 +1,3 @@
-# project-two
-
 # Project-Title: Data Science employment opportunities in Australia
 
 ![image](https://user-images.githubusercontent.com/109832565/190567544-cf01d579-eb63-4f88-a4e2-c3a6665e6c0c.png)
