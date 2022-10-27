@@ -49,6 +49,7 @@ Extracting includes reading the data from multiple sources. we are using two dat
 - HTML tables
 - SQL databases
 - Spreadsheets
+
 Apart from this, following are a few suggestions where you can find data from:
 - https://www.data.world/
 - https://www.kaggle.com/
@@ -57,14 +58,34 @@ Apart from this, following are a few suggestions where you can find data from:
 - https://github.com/n0shake/Public-APIs
 - https://github.com/Kikobeats/awesome-api
 
+Before extraction using python and pandas, create a new database called 'datascience_db' in pgAdmin. In the newly created database, create two tables and inner join them using query tools. This joined table (currently empty) will later hold the data that we're interested in at the end of the ETL process. You'll use python and pandas for ETL process in Jupiter notebook. And at the end of the process, you'll load the DataFrames into the postgreSQL table that we created in the beginning. Note that the names of the columns in postgreSQL ad Pandas should be same to save yourself falling in troubles during the loading process.
+
+#### Extraction in steps:
+
+- Import dependencies (pandas, create_engine and inspect from sqlalchemy, config)
+- Store CSV files into a DataFrame. For this set the path to the CSV files and read and display the dataframes using pandas.
+
 
 ### Transform
 
-Transformation includes cleaning and structuring the data in desired form.
+Transformation includes cleaning and structuring the data in desired form. Structuring includes summarization, selection, joining, filtering and aggregating the data depending on the business needs. Transformation can be done using SQL or specialized ETL tools but here you'll be using Python and Pandas.
+
+#### Transformation in steps:
+
+- For transformation, clean the dataframe by keeping the copy of the columns that you're interested in. Using a copy and not the original data will save us from troubles.
+
 
 ### Load
 
-Loading includes writing the data into a relational or non-relational database for storage
+Loading includes writing the data into a relational (sql) or non-relational (mongodb) database for storage. This data could be used for business applications or analysis purposes in future.
+
+#### Loading in steps:
+
+- Connect to the local database. Here create a config.py file and keep your username and password in it and save the config.py file in .gitignore file to keep your username and password confidential. If it's not confidential, you can put it straight away in the code and you won't have to create config.py or .gitignore file then.
+- Check for the tables
+- Use pandas to load csv converted DataFrames into database 
+- Confirm data has been added by querying the tables in both pandas and postgreSQL
+- Join the two tables in pgAdmin or join the two tables in with Pandas and SQLAlchemy.
 
 ## Technical Report
 
