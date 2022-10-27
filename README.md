@@ -88,6 +88,13 @@ Loading includes writing the data into a relational (sql) or non-relational (mon
 
 The detailed technical report is attached in repo in the pdf form, please refer to the pdf file with name 'Project 2-Report' for understanding of the technical aspects of the project in detail.
 
+## Findings
+
+The data science job is very demanding role across Australia as it offers higher salary and a huge 
+number of opportunities. Here in this 
+analysis, we found data scientist making more than 90000$ per annum. Moreover, we can also 
+see that job opportunities are very huge as per the data available for each job location. Among all the job titles, Software engineers earn highest salary with more than 200000$ and they belong to the science and technology job class
+
 
 **Note:** Although, one of the datasets is from a previous project which you can find at https://github.com/AnamKhalid09/project-one.git. Since the topic is same, you might notice similar aspects like similar content in Readme file. But, the main focus of this project is ETL. Furthermore, the data used is fresh at the time of publication, therefore trends might change in future. For that, it is recommended to use the fresh data for this project. Recommendations and pull requests are welcome!
  
